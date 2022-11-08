@@ -1,4 +1,4 @@
-<a href="https://gatsby-tutorial-kevin.netlify.app">Live Demo</a>
+<a href="https://gatsby-tutorial-kevin.netlify.app" target="_blank">LIVE DEMO</a>
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
