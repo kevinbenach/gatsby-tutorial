@@ -1,10 +1,12 @@
 import * as React from "react";
 import Layout from "../components/Layout";
+// From Gatsby v3 onwards we need to import styles like this (below)
+import * as styles from "../styles/home.module.css";
 
 export default function Home() {
   return (
     <Layout>
-      <section>
+      <section className={styles.header}>
         <div>
           <h2>Desing</h2>
           <h3>Develop & Deploy</h3>
