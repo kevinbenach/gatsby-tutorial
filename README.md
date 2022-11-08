@@ -8,8 +8,10 @@
   Gatsby's hello-world starter
 </h1>
 
-
-<h1>Live version at <a href="https://gatsby-tutorial-kevin.netlify.app/"></a></h1>
+<div>
+<h1>Live version at</h1>
+<a href="https://gatsby-tutorial-kevin.netlify.app">Kevin Gatsby Tutorial</a>
+</div>
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
