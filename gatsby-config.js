@@ -32,5 +32,6 @@ module.exports = {
     title: "Kevin Benach",
     description: "web dev portfolio",
     copyright: "This website is copyrighted 2022 Kevin Benach",
+    contact: "me@kevinbenach.com",
   },
 };
